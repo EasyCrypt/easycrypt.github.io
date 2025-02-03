@@ -12,6 +12,7 @@ EasyCrypt is part of the [Formosa project](https://formosa-crypto.org/).
 
 ### Resources
 
+ - [Find us on the Formosa Zulip organization](https://formosa-crypto.zulipchat.com/)
  - [Find us on GitHub](https://github.com/EasyCrypt/easycrypt)
  - [Installing EasyCrypt](https://github.com/EasyCrypt/easycrypt/blob/main/README.md)
  - Check out our [new tutorial](https://easycrypt.gitlab.io/easycrypt-web/docs/intro)
