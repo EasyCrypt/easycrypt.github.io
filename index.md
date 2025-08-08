@@ -15,7 +15,7 @@ EasyCrypt is part of the [Formosa project](https://formosa-crypto.org/).
  - [Find us on the Formosa Zulip organization](https://formosa-crypto.zulipchat.com/)
  - [Find us on GitHub](https://github.com/EasyCrypt/easycrypt)
  - [Installing EasyCrypt](https://github.com/EasyCrypt/easycrypt/blob/main/README.md)
- - Check out our [new tutorial](https://easycrypt.gitlab.io/easycrypt-web/docs/intro)
+ - Check out our [new tutorial](https://easycrypt.gitlab.io/easycrypt-web/docs/tutorials/)
  - We have a [reference manual](https://www.easycrypt.info/easycrypt-doc/refman.pdf).
    However, note that this reference manual has not been updated for
    years now and does not reflect the current (stable & unstable) status of
